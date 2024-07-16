@@ -64,7 +64,7 @@ export default function About() {
           >
             <span className="relative px-5 py-3 text-2xl transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
               <a
-                href="https://drive.google.com/file/d/1tB0Et86LXRfDpUEglPWNL4kFkAUSa6gH/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1Kwm8zWl-P9kIzGVGF7ULIkyi9nXrARQJ/view?usp=sharing"
                 target="_blank"
               >
                 விதிமுறை புத்தகம்
